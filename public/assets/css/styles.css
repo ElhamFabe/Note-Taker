@@ -2,8 +2,21 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-image: linear-gradient( whitesmoke, lightslategray, rgb(166, 196, 231));
 }
-
+.navbar, .navbar-brand{
+  text-align: center;
+  justify-content: center;
+  font-size: 3rem;
+  color: darkslategrey
+  
+}
+.face {
+ margin-top: 100px;
+ background-color: rgba(236, 202, 158, 0.911); opacity: 0.7;
+border-radius: 2rem;
+box-shadow:5px 10px rgba(7, 7, 7, 0.246);
+}
 .save-note {
   display: none;
 }
@@ -36,7 +49,9 @@ html, body {
 
 .note-title:read-only, .note-textarea:read-only {
   color: #757575;
+  /* color: lightslategray */
 }
+
 
 .list-container .card {
   height: calc(100vh - 70px);
