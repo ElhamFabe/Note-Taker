@@ -1,5 +1,6 @@
 # Note-Taker
 
+![ApplicationImage](Assets/img/photo.png)
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   Contents of This File
