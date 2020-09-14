@@ -45,6 +45,7 @@ box-shadow:5px 10px rgba(7, 7, 7, 0.246);
   height: 50px;
   margin-top: 13px;
   font-size: 3rem;
+  color: #000;
 }
 
 .note-title:read-only, .note-textarea:read-only {
