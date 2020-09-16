@@ -1,6 +1,9 @@
 # Note-Taker
 
-![ApplicationImage](public/assets/img/photo.png)
+<!-- ![ApplicationImage](public/assets/img/photo.png) -->
+![Alt Text](public/assets/img/NoteTaker.gif)
+
+
 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
